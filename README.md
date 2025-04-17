@@ -19,3 +19,5 @@ This project implements a facial recognition system using deep learning. It incl
 Install with:
 ```bash
 pip install -r requirements.txt
+```
+
