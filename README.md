@@ -3,6 +3,7 @@
 This project implements a facial recognition system using deep learning. It includes training a model with face embeddings and performing real-time face recognition. The system is ideal for use cases like attendance marking, access control, and identity verification.
 
 ## 📁 Repository Structure
+```
 face-recognition/
 ├── README.md                     # Project overview and usage
 ├── LICENSE                       # MIT License 
@@ -15,7 +16,7 @@ face-recognition/
 ├── embeddings.npy             # Generated face embeddings
 ├── label_encoder.npy          # Encoded labels for names
 ├── model.pth
-
+```
 
 
 
